@@ -20,7 +20,7 @@ Desarrollador Backend Senior en **Virtual Cave**, especializado en el diseño, d
 
 - 🏗️ **Enfoque principal:** Arquitectura de software, diseño de APIs, rendimiento de bases de datos y sistemas distribuidos.
 - 🚀 **Actualmente:** Construyendo y escalando infraestructura backend en **Virtual Cave**.
-- 📐 **Buenas prácticas:** Código limpio, testing automatizado, CI/CD y observabilidad.
+- 📐 **Buenas prácticas:** Código limpio SOLID, DRY, testing automatizado, CI/CD y observabilidad.
 
 ---
 
