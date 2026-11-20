@@ -50,13 +50,24 @@ Desarrollador Backend Senior en **Virtual Cave**, especializado en el diseño, d
 </p>
 
 ---
+---
 
 ### 📊 Actividad y Métricas
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FernandoNogueraRodriguez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <!-- Tarjeta de Estadísticas (sin el parámetro que causa error de rate-limit) -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FernandoNogueraRodriguez&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+  <!-- Tarjeta de Lenguajes: mostrará datos en cuanto haya repos públicos o conectes WakaTime -->
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoNogueraRodriguez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
+
+<!-- Alternativa muy recomendada: Racha de actividad (Streak Stats) en lugar de la tarjeta vacía -->
+<!--
+<div align="center">
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoNogueraRodriguez&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+-->
 
 ---
 
